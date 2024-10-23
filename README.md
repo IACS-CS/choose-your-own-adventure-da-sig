@@ -72,6 +72,7 @@ If you use an AI prompt like _"Write a menu for a Thai restaurant with 67 option
 - [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
 
 
+
 ### Honors Resources
 
 1. **Tables in HTML**:
